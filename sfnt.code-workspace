@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"truetype.h": "c",
+			"ttf_fs_driver.h": "c",
+			"typeinfo": "c",
+			"ttf_type.h": "c",
+			"snft_type.h": "c",
+			"stdio.h": "c",
+			"sdl.h": "c",
+			"sfnt_graphics.h": "c"
+		}
+	}
+}

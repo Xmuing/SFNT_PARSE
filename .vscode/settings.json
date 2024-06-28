@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "truetype.h": "c",
+        "ttf_fs_driver.h": "c",
+        "typeinfo": "c"
+    }
+}
